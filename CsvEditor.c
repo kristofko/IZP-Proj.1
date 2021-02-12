@@ -1,7 +1,7 @@
 /* @file sheet.c
 * 1st IZP project
 * Editing file
-* Author: Kriötof äiöka
+* Author: Kri≈°tof ≈†i≈°ka
 * Login: xsiska16
 *
 * Date: November 2020 
